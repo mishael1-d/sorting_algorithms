@@ -1,5 +1,5 @@
 C - Sorting algorithms & Big O
-About / synopsis
+earbout / synopsisi
 An introduction to implementing multiple sorting algorithms separately, with -O text files for each algorithm listing their time complexity
 
 Built By
